@@ -1,4 +1,4 @@
-# IOT_MINI_PROJECT_ACCIDENT_ALERTER_using Arduino in Proteous
+# IOT_MINI_PROJECT_ACCIDENT_ALERTER_USING_ARDUINO
 
 # Tools Required:
 • Proteus 8 Professional (for virtual simulation) \n
