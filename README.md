@@ -1,4 +1,4 @@
-# IOT_MINI_PROJECT_ACCIDENT_ALERTER_USING_ARDUINO
+# IOT_MINI_PROJECT_ACCIDENT_ALERTER_USING_ARDUINO_IN_PROTEOUS
 
 # Tools Required:
 • Proteus 8 Professional (for virtual simulation) \n
