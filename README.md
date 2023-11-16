@@ -1,7 +1,7 @@
 # IOT_MINI_PROJECT_ACCIDENT_ALERTER_using Arduino in Proteous
 
 # Tools Required:
-• Proteus 8 Professional (for virtual simulation)
+• Proteus 8 Professional (for virtual simulation) \n
 • Arduino Uno (simulated in Proteus)
 • Ultrasonic Sensor (HC-SR04 or similar)
 • Relay Module
